@@ -1,0 +1,2 @@
+forecah-el írni,
+let és const változok használata
